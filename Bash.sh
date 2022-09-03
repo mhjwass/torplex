@@ -6,7 +6,7 @@ apt-get update
 apt-get upgrade -y 
 } &> /dev/null
 
-docker-compose -f ~/torplex/docker-compose.yml up -d
+docker-compose -f /home/wass/ples-stuff/torplex/docker-compose.yml up -d
 
 echo "Installing Plex "
 {
