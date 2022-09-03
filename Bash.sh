@@ -57,7 +57,7 @@ echo "ALL DONE"
 echo "Your new Docker services are up and running
 You can access this from this PC through THE FOLLOWING ADDRESS:
 ___________________________________________________________________
-Portainer: http://127.0.0.1:9000 - Docker Management User Interface.
+Portainer: http://127.0.0.1:2000 - Docker Management User Interface.
 Plex: http://127.0.0.1:32400/web -  Your personal media play.
 Sonarr: http://127.0.0.1:8989 - Sonarr is a multi-platform app to search, download, and manage TV shows.
 Radarr: http://127.0.0.1:7878 - Like Sonarr but for movies.
